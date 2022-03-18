@@ -1,19 +1,20 @@
-1.	SAV4_file_raw_data.xlsx
+1.	SAV4_file_raw_data.csv  - Inetha 
 a.	Original File for 650K- Get all fields
 
-2.	JDC_additions.xlsx
+2.	JDC_additions.csv - Berivan
 a.	 � Changes from the customer for next year
 b.	Column Q And AH (about 136K rows)
 
-3.	800K_additions.xlsx
+3.	800K_additions.csv - Christin
 a.	SAV4 is a 650K this file are the additions for 800K system
+b. Column B and Colum E
 
-4.	colour_conversion_item.xlsx
+4.	colour_conversion_item.csv  -Christin
 a.	File to convert to new items numbers (from fixed paint color to free color)
 b.	Column D and Y(new Item) � Keep the description (column C)
 c.	Old YYYYYY-YYY-xxxxx = VVVVV-VVV-xxxxx
 
-5.	BF_square deck.xlsxS
+5.	BF_square deck.xlsxS - Andres
 a.	Square deck conversion Items numbers
 b.	requirements_preassembly.xlsx 
 
