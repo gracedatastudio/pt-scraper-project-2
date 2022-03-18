@@ -13,6 +13,11 @@ b. Column B and Colum E
 a.	File to convert to new items numbers (from fixed paint color to free color)
 b.	Column D and Y(new Item) � Keep the description (column C)
 c.	Old YYYYYY-YYY-xxxxx = VVVVV-VVV-xxxxx
+* exported file - cleaned_csv_colour_conversion_item 
+* column names:  
+** Column C - Item Description
+** Column D - Item Number
+** Column Y - dotM: 026208 range Loop: 013491 range
 
 5.	BF_square deck.xlsxS - Andres
 a.	Square deck conversion Items numbers
