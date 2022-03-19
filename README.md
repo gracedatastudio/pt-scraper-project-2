@@ -26,4 +26,4 @@ Files were read in as CSVs from data folder in Jupyter Notebook. Null data were 
 Cleaned CSV files (stored in T_data folder) was transfered into the PostgreSQL database using pgAdmin as specified by ERD diagram (saved as SQL file on group github). colour_conversion_item.csv was eliminated from use in final database upload due to data conflicts. 
 
 ## Screenshots of Database Loading 
-[Database Loading](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/final_folder/Postgres_Data_Screen_Shots.docx)
+[Database Loading Screenshots](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/final_folder/Postgres_Data_Screen_Shots.docx)
