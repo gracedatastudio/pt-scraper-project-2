@@ -20,6 +20,7 @@ Files were read in as CSVs from data folder in Jupyter Notebook. Null data were 
 * [JDC_addtions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/bguler/project2_cleaned_JDC_addtions_csv.ipynb)
 * [additions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/csok/additions.ipynb)
 * [sav4](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/imclean/SAV4_file_raw_data.csv)
+* requirements_preassembly.csv did not require any transformations. 
 
 ## ERD Diagram 
 ![ERD Diagram](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/ctork/QuickDBD-SQL_EMP_ERD%20(2).png)
