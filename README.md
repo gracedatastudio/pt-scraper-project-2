@@ -18,7 +18,7 @@ Files were read in as CSVs from data folder in Jupyter Notebook. Null data were 
 ## Jupyter Notebook
 * [BF_square_deck](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/apulido/BF_square_deck.ipynb)
 * [JDC_addtions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/bguler/project2_cleaned_JDC_addtions_csv.ipynb)
-* [additions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/csok/csok.ipynb)
+* [additions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/csok/additions.ipynb)
 * [sav4](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/imclean/SAV4_file_raw_data.csv)
 
 ## ERD Diagram 
