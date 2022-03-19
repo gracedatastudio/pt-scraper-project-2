@@ -18,5 +18,9 @@ Files were read in as CSVs from data folder in Jupyter Notebook. Null data were 
 ## ERD Diagram 
 ![ERD Diagram](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/ctork/QuickDBD-SQL_EMP_ERD%20(2).png)
 
+## SQL Schema 
+[SQL Schema](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/final_folder/QuickDBD-SQL_EMP_ERD-final.sql)
+
+
 ## Load 
 Cleaned CSV files (stored in T_data folder) was transfered into the PostgreSQL database using pgAdmin as specified by ERD diagram (saved as SQL file on group github). colour_conversion_item.csv was eliminated from use in final database upload due to data conflicts. 
