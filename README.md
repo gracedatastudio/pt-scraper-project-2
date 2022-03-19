@@ -17,4 +17,4 @@ Real World data from X-employer .....
 Files were read in as CSVs from data folder in Jupyter Notebook. Null data were dropped during data cleaning procress. Only specified columns were selected from the datasets. New DataFrames were generated. Columns were renamed to match specifications of the ERD diagram. Duplicate data were later dropped. Cleaned CSV files were exported to T_data folder. 
 
 ## Load 
-Cleaned CSV files (stored in T_data folder) was transfered into the PostgreSQL database using pgAdmin as specified by ERD diagram (saved as SQL file on group github). 
+Cleaned CSV files (stored in T_data folder) was transfered into the PostgreSQL database using pgAdmin as specified by ERD diagram (saved as SQL file on group github). colour_conversion_item.csv was eliminated from use in file database due to conflicts. 
