@@ -6,7 +6,6 @@ Datasets:
 * sav_4.csv
 * jdc_additions.csv
 * 800K_additions.csv
-* colour_conversion_item.csv
 * bf_square_deck.csv
 * requirements_preassembly.csv
 
