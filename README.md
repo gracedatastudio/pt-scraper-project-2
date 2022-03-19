@@ -10,6 +10,9 @@ Datasets:
 * bf_square_deck.csv
 * requirements_preassembly.csv
 
+## Data Source
+Real World data from X-employer ..... 
+
 ## Transformation
 Files were read in as CSVs from data folder in Jupyter Notebook. Null data were dropped during data cleaning procress. Only specified columns were selected from the datasets. New DataFrames were generated. Columns were renamed to match specifications of the ERD diagram. Duplicate data were later dropped. Cleaned CSV files were exported to T_data folder. 
 
