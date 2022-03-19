@@ -25,9 +25,6 @@ b.	requirements_preassembly.xlsx
 
 6.	requirements_preassembly.xlsx
 a.	All fields into a db
-
-7.	 BOMs_preassembly.xlsx 
-a.	All fields into a db
  
 Final Output
 One set of data on a table that contained total item quantities should reflect SAV4 + JDC + 800K
