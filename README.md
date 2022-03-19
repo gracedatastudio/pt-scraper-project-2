@@ -16,10 +16,10 @@ Real World data from X-employer .....
 Files were read in as CSVs from data folder in Jupyter Notebook. Null data were dropped during data cleaning procress. Only specified columns were selected from the datasets. Pandas DataFrames were generated. Columns were renamed to match specifications of the ERD diagram. Duplicate data were later dropped. Cleaned CSV files were exported to T_data folder. 
 
 ## Jupyter Notebook
-[BF_square_deck](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/apulido/BF_square_deck.ipynb)
-[JDC_addtions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/bguler/project2_cleaned_JDC_addtions_csv.ipynb)
-[additions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/csok/csok.ipynb)
-[sav4](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/imclean/SAV4_file_raw_data.csv)
+* [BF_square_deck](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/apulido/BF_square_deck.ipynb)
+* [JDC_addtions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/bguler/project2_cleaned_JDC_addtions_csv.ipynb)
+* [additions](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/csok/csok.ipynb)
+* [sav4](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/imclean/SAV4_file_raw_data.csv)
 
 ## ERD Diagram 
 ![ERD Diagram](https://github.com/gracedatastudio/pt-scraper-project-2/blob/main/ctork/QuickDBD-SQL_EMP_ERD%20(2).png)
